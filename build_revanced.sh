@@ -23,7 +23,7 @@ declare -A artifacts
 
 artifacts["revanced-cli.jar"]="revanced/revanced-cli revanced-cli .jar"
 artifacts["revanced-integrations.apk"]="revanced/revanced-integrations revanced-integrations .apk"
-artifacts["revanced-patches.jar"]="revanced/revanced-patches revanced-patches .jar"
+artifacts["revanced-patches.jar"]="F1R3W4LL404/revanced-patches revanced-patches .jar"
 artifacts["apkeep"]="EFForg/apkeep apkeep-x86_64-unknown-linux-gnu"
 
 ## Functions
